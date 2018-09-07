@@ -9,5 +9,5 @@ def second_challenge
   #code your solution here!
 
   nested = groceries.values
-
+  flatten = nested.flatten
 end
